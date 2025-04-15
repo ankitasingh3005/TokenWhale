@@ -111,7 +111,7 @@ To contribute:
 
 Questions, ideas, or feedback?  
 Open an issue or start a discussion on the repo:  
-🔗 [https://github.com/surajshivkumar/TokenWhale/issues](https://github.com/surajshivkumar/TokenWhale/issues)
+🔗 [https://github.com/ankitasingh3005/TokenWhale/issues]
 
 ## References
 
